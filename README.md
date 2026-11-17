@@ -8,6 +8,7 @@ I'm a Computer Science student at Universitas Lampung with an interest in Softwa
 
 - **UI/UX Design** — Creating simple and user-friendly interfaces.
 - **Front-End Development** — Turning designs into functional websites.
+- **Software Engineering** — Understanding structured development lifecycles, clean code principles, and best practices in building scalable applications.
 
 ### Projects & Learning
 
